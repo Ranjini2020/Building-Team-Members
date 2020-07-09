@@ -26,5 +26,5 @@ team consists of a manager, and any number of engineers and interns.
 
 ### Roster output
 
-The project generate a `team.html` page in the `output` directory, that displays
+The project generates a `team.html` page in the `output` directory, that displays
 a formatted team roster. 
